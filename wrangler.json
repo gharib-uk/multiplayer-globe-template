@@ -4,8 +4,10 @@
   "name": "multiplayer-globe-template",
   "migrations": [
     {
-      "new_classes": ["Globe"],
-      "tag": "v1"
+      "tag": "v1",
+      "new_sqlite_classes": [
+        "Globe"
+      ]
     }
   ],
   "assets": {
